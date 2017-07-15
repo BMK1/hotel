@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/php_test/project/index2.html",
+		"/C/wamp64/www/TutorialHtml5HotelPhp/backend_rooms.php",
+		"/C/wamp64/www/php_test/grid.php",
+		"/C/wamp64/www/php_test/TutorialHtml5HotelPhp/_db_mysql.php",
+		"/C/wamp64/www/php_test/show.php",
+		"/C/wamp64/www/php_test/insert.php",
+		"/C/wamp64/www/php_test/TutorialHtml5HotelPhp/index.php",
+		"/C/wamp64/www/php_test/login1.php",
+		"/C/xampp/htdocs/codeigniter/index.php",
+		"/C/wamp64/www/php_test/essentia_v_1_0_0/index.html",
+		"/C/wamp64/www/project/index2.html",
+		"/C/wamp64/www/php_test/mail.php",
+		"/C/Users/marh/Desktop/our.html",
+		"/C/wamp64/www/php_test/TutorialHtml5HotelPhp/de.php",
+		"/C/Users/marh/Desktop/PHPMailer-master/get_oauth_token.php",
+		"/C/Users/marh/Desktop/PHPMailer-master/PHPMailerAutoload.php",
+		"/C/Users/marh/Desktop/MockupSlideshow/index2.html",
+		"/C/wamp64/www/php_test/login.php",
+		"/C/wamp64/www/php_test/TutorialHtml5HotelPhp/ta.css",
+		"/C/Users/marh/Desktop/essentia_v_1_0_0/index.html",
+		"/C/wamp64/www/grid1.php",
+		"/C/wamp64/delete_grid.php",
+		"/C/wamp64/www/de.php",
+		"/C/wamp64/www/config.php",
+		"/C/wamp64/www/TutorialHtml5HotelPhp/index.php",
+		"/C/wamp64/www/php_test/data.php",
+		"/C/Users/marh/Desktop/hotel_image/jk.html",
+		"/C/Users/marh/Desktop/slide.html",
+		"/C/wamp64/www/php_test/drop.php",
+		"/D/ /ali abd/index.php",
+		"/C/Users/marh/Documents/heaco.html",
+		"/C/Users/marh/Desktop/hotel_image/im.html",
+		"/C/wamp64/www/php_test/conntion.php",
+		"/C/wamp64/www/php_test/opertion.php",
+		"/C/wamp64/www/php_test/headers.php",
+		"/C/wamp64/www/php_test/cook.php",
+		"/C/Users/marh/Documents/script.sql",
+		"/C/wamp64/www/php_test/cook",
+		"/C/wamp64/www/php_test/part2.php",
+		"/C/wamp64/www/php_test/text.txt",
+		"/C/wamp64/www/php_test/callop.php",
+		"/C/wamp64/www/php_test/dom.php",
+		"/C/wamp64/www/php_test/op.php",
+		"/C/wamp64/www/php_test/mar1",
+		"/C/wamp64/www/php_test/part1.php",
+		"/C/wamp64/www/php_test/main.php",
+		"/C/wamp64/www/php_test/cont.php",
+		"/C/wamp64/www/php_test/fun_array.php",
+		"/C/wamp64/www/php_test/array.php",
+		"/C/wamp64/www/php_test/string.php",
+		"/C/wamp64/www/php_test/fun.php",
+		"/C/wamp64/www/php_test/loop2.php",
+		"/C/wamp64/www/php_test/loop.html",
+		"/C/wamp64/www/php_test/if.php",
+		"/C/wamp64/www/php_test/casting1",
+		"/C/Users/marh/Desktop/php7.lib"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"500px",
+			"?>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conntion.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

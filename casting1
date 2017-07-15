@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>cast</title>
+</head>
+<body>
+<br>
+<?php
+$n =1;
+$n1 =settype($n, "String");
+
+?>
+<?php echo gettype($n1) ?>
+</body>
+</html>
